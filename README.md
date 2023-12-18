@@ -3,9 +3,13 @@
 
 - 🌱 I’m currently learning **Back-End Test Automation**
 
+- 👨‍💻 All of my projects are available at [StanM84/repositories]([StanM84/repositories](https://github.com/StanM84?tab=repositories))
+
+- 💬 Ask me about **Anything. I don't know nothing! :)**
+
 - 📫 How to reach me **stanislav.markov84@gmail.com**
 
-- ⚡ Fun fact **A very responsible professional committed to a good level of teamwork and communication. High time management skills combined with passion for information technologies and innovations. Analytical thinker, who is highly motivated to expand professional experience and constantly upgrade IT, QA and technical skills.**
+- ⚡ Fun fact **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
